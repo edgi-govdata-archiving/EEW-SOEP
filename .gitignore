@@ -16,3 +16,5 @@ GHGRP_DATA/ghgp_data_2021.xlsx
 GHGRP_DATA/ghgp_data_2022.xlsx
 GHGRP_DATA/ghgp_data_2023.xlsx
 GHGRP_DATA/ghgp_data_by_year_2023.xlsx
+*.xlsx
+*.csv
